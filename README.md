@@ -9,11 +9,11 @@ DAY 1:
 
 3)Mean
 
-4)Mode(Home work)
+4)Mode
 
 5)Median
 
-6)Range=(Max-Min)
+6)Range
 
 7)Max_range and Min_range
 
@@ -21,9 +21,9 @@ DAY 1:
 
 9)Histogram
 
-10)IQR(Home work)
+10)IQR
 
-11)Quantile(Home work)
+11)Quantile
 
 12)Zscore
 
