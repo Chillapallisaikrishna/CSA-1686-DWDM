@@ -37,7 +37,7 @@ DAY 1:
 
 15)pie 3D
 
-16)pie 2D and 3D With colours(Assignment 2)
+16)pie 2D With colours(Assignment 2)
 
 17)DecimalScaling
 
