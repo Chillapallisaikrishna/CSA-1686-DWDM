@@ -60,3 +60,21 @@ DAY 1:
 3.RandomForest
 
 4.Boxplot and Scatter Plot
+
+// Day 3 Topics //
+
+Day 3 Topics:
+
+1.Confusion Matrix
+
+2.Addition
+
+3.Subtraction
+
+4.Multiplication
+
+5.Division
+
+6.Decission tree
+
+7.Plot
