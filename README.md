@@ -50,3 +50,13 @@ DAY 1:
 21)Linear model internal and external marks predicting(Assignment 3)
 
 22)Mid Range(Home work)
+
+//    Day 2 Topics:  //
+
+1.Apriori
+
+2.ChiSquare
+
+3.RandomForest
+
+4.Boxplot and Scatter Plot
