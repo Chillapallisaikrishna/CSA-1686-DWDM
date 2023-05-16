@@ -1,7 +1,7 @@
 # CSA-1686-DWDM
 Data Warehousing and Data Mining For Churn Prediction 
 Topics that are practised in 
-DAY 1:
+//  DAY 1 Topics //
 
 1)Maximum
 
